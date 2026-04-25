@@ -1,7 +1,9 @@
 # Telco-Customer-Churn-Prediction
+
 Telco müşteri kaybını (churn) tahmin etmek için geliştirilmiş uçtan uca makine öğrenmesi projesi. Logistic Regression'dan Optuna ile optimize edilmiş SVM'e kadar 7 farklı algoritmanın performans karşılaştırmasını içerir.
 
 Telco Customer Churn Prediction Project
+
 Bu proje, bir telekomünikasyon şirketindeki müşteri kaybını (churn) önceden tahmin etmek amacıyla makine öğrenmesi tekniklerini kullanır. Projenin temel hedefi, hangi müşterilerin aboneliğini iptal etme riski taşıdığını belirleyerek şirketin müşteri tutma stratejilerine veri odaklı destek sağlamaktır.
 
 Öne Çıkan Özellikler:
